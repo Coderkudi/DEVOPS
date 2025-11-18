@@ -1,3 +1,7 @@
 this is added via cat command
 line 2 for main commit
+<<<<<<< HEAD
 line 3 from main commit 2 changes in line 3 for generating conflict  changes to line 3 again changes in line 3 for conflict
+=======
+line 3 from main commit 2 changes on feature branch for conflict
+>>>>>>> fc5664e (changes in main.txt line3 for feature branch)
