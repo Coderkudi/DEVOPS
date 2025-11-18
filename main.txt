@@ -1,3 +1,3 @@
 this is added via cat command
 line 2 for main commit
-line 3 from main commit 2 changes in line 3 for generating conflict  changes to line 3 again
+line 3 from main commit 2 changes in line 3 for generating conflict  changes to line 3 again changes in line 3 for conflict
