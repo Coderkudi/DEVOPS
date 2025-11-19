@@ -6,3 +6,4 @@ git stash command practice
 
 
 git stash practice in local
+git stash practice in local(2nd commit)
